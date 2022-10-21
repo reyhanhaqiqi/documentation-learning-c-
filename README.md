@@ -1,2 +1,3 @@
 # Documentation Learning C++
-This repository for documentation C++ after learning
+
+This repository is about documentation of me learning C++ programming language
